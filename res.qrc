@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>images.png</file>
+        <file>png-clipart-computer-icons-button-user-interface-exit-logo-area-thumbnail.png</file>
+        <file>asd.png</file>
+        <file>fish-icon-1982x2048-xxayvvtg.png</file>
+        <file>31267.png</file>
+        <file>31267.ico</file>
+        <file>2817908.ico</file>
+        <file>2817908.png</file>
+    </qresource>
+</RCC>

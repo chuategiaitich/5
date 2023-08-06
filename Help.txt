@@ -1,0 +1,11 @@
+a: bật đèn RGB
+b: tắt đèn RGB
+o: bơm tự động đầy
+m: bật máy bơm
+n: tắt máy bơm
+-----------------------
+a: turn on RGBs led
+b: turn off RGBs led
+o: autofill the tank
+m: turn on the pump
+n: turn off the pump
